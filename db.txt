@@ -1,0 +1,6 @@
+maciej 40
+Jakub 25
+Jakub 70
+Maciej 50
+Bartek 54
+Filip 20
